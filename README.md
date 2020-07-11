@@ -11,6 +11,6 @@
 
 ## 运行界面
 
-未完待续  
+#### 1.用户将红色色块移动到相应位置停留3s选择关卡 
 ![image](https://raw.githubusercontent.com/kyle-one/opencv--blue-bird/master/md_image/1.png)  
-123
+#### 2.用户需要躲避障碍
