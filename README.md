@@ -12,3 +12,5 @@
 ## 运行界面
 
 未完待续
+https://github.com/kyle-one/opencv--blue-bird/blob/master/md_image/1.png
+https://raw.githubusercontent.com/kyle-one/opencv--blue-bird/master/md_image/1.png
