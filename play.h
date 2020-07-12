@@ -143,8 +143,8 @@ int play() {
 			//circle(frame, Point(center.x, center.y), (int)radius, Scalar(0, 255, 0), 2);
 			//circle(frame, Point(center.x, center.y), 20, Scalar(0, 255, 0), 2);
 			//Ô´Í¼ÏñÖ¸Õë£¬Ô²ÐÄ×ø±ê£¬°ë¾¶£¬ÑÕÉ«£¬Ìî³ä
-			cv::imshow("input", frame);
-			cv::imshow("output", dst);
+			cv::imshow("game", frame);
+			//cv::imshow("output", dst);
 			waitKey(1);
 		}
 
